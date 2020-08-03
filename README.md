@@ -1,2 +1,3 @@
 # MyDefender
-Tower Defense game made in C using CSFML
+Epitech project :
+Tower Defense game made in C using the CSFML lib
